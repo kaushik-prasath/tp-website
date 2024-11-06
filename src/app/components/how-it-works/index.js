@@ -1,8 +1,8 @@
 import { Container, CardsContainer, Card } from './index.styled'
 
-const SignatureModules = () => {
+const HowItWorks = () => {
     return <Container>
-        <h1>Our signature modules</h1>
+        <h1>How does it work?</h1>
 
         <CardsContainer>
             <Card>
@@ -32,4 +32,4 @@ const SignatureModules = () => {
     </Container>
 }
 
-export default SignatureModules
+export default HowItWorks
